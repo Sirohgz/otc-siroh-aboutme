@@ -1,0 +1,39 @@
+header {
+  background-color: #333;
+  color: white;
+  padding: 1rem;
+  text-align: justify;
+}
+
+.clothing {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+body {
+  background-color: rgb(0, 162, 255);
+}
+.toph2 {
+  text-align: center;
+}
+
+blockquote {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.designs {
+  text-align: center;
+}
+
+.jacket {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.jacket1 {
+  text-align: center;
+  list-style: none;
+}
